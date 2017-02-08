@@ -1,0 +1,19 @@
+body{
+    background: lightcoral;
+}
+table{
+    border:2px solid yellow;
+    text-align: center;
+    
+}
+th{
+    border: 2px solid red;
+}
+td{
+    border: 2px solid green;
+}
+button{
+    color: blue;
+    background: lightgray;
+    border-radius: 25px; 
+}

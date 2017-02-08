@@ -1,0 +1,27 @@
+body{
+    background: url('bg.jpg');
+    background-size: cover; 
+}
+div{
+    text-align: center;
+    background: #FFFFFF;
+    border-radius: 25px;
+    border: 2px dashed red;
+}
+h1{
+    color:orange;
+    background: papayawhip;
+    border-radius: 45px; 
+}
+h4{
+   color: green; 
+}
+button{
+    background: green;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    opacity: 0.8;
+    color: yellow;
+    font-size: 25px; 
+}
